@@ -1,3 +1,3 @@
 # [A living map of Artificial Intelligence](https://github.com/Math-AI-Institute/AI-World/wiki) ⭐️
 
-Updated January 16, 2026
+Updated January 22, 2026
