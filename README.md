@@ -1,3 +1,3 @@
-# [⭐️ A living map of Artificial Intelligence](https://github.com/Math-AI-Institute/AI-World/wiki) ⭐️
+# [⭐️ A curated list of cutting-edge artificial intelligence](https://github.com/Math-AI-Institute/AI-World/wiki) ⭐️
 
 Updated February 5, 2026
